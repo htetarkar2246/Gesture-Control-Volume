@@ -35,7 +35,7 @@ GestureVolumeControl/
 ### Install dependencies
 
 ```bash
-pip install opencv-python mediapipe numpy pycaw comtypes
+pip install -r requirements.txt
 
 ```
 

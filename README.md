@@ -1,4 +1,4 @@
-# Gesture Controlled Volume using Hand Tracking 🎛️🖐️
+# Gesture Controlled Volume using Hand Tracking 
 
 This project allows you to control your system volume using hand gestures via your webcam. It uses **OpenCV** and **MediaPipe** to track hand landmarks, and **Pycaw** to manipulate the system's audio levels.
 
@@ -14,13 +14,13 @@ This project allows you to control your system volume using hand gestures via yo
 ---
 
 ## Project Structure
-
+```
 GestureVolumeControl/
 ├── HandTrackingModule.py # Module for hand detection and landmark extraction
 ├── GestureControlVolume.py # Main script to control system volume via gestures
 ├── README.md
 └── .gitignore
-
+```
 
 ---
 
